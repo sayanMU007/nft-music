@@ -79,5 +79,6 @@ The **NFT Music Distribution** smart contract enables musicians to mint, sell, a
 - AI-powered **Music Curation**
 - Fan **Engagement & Rewards**
 - **Cross-Blockchain Compatibility**
+![Screenshot 2025-03-19 121430](https://github.com/user-attachments/assets/5fd68bad-ddaf-4512-acac-5931f9079f83)
 
 
