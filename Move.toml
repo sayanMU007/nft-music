@@ -1,0 +1,15 @@
+[package]
+name = "MusicNFT"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0xe5c56f5c484a4dcac34d1d075a6e9e6e1c43ca674f15acb9ba2225c38397083b"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
